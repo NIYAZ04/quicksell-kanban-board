@@ -1,0 +1,13 @@
+THIS PORJECT IS CREATED BY MIR NIYAZUL HAQUE AS A PART OF EVALUTION.
+
+
+Install the Dependencies:
+Run the following command to install all the required packages:
+
+npm install
+
+
+Start the Project:
+To start the React development server, use:
+
+npm start
